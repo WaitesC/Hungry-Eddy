@@ -1,0 +1,23 @@
+New PSD files:
+0-Eddy - Sheet - A114 - Eddy sprite happy or sad
+0-Eddy - Sheet - A114 - Eddy sprite idle option1
+0-Eddy - Sheet - A114 - Eddy sprite idle option2
+0-Eddy - Sheet - A114 - Eddy sprite jump
+0-Eddy - Sheet - A114 - Eddy sprite tongue 14d down
+0-Eddy - Sheet - A114 - Eddy sprite tongue 30d up
+0-Eddy - Sheet - A114 - Eddy sprite tongue horizontal
+0-Eddy - Sheet - A114 - Eddy vertical
+
+Edited PSD file:
+0-Eddy - Sheet - A114 - Eddy sprite walk
+
+Deleted PSD file:
+0-Eddy - Sheet - A114 - Eddy sprite tongue
+
+Revised PDF file:
+0-Eddy - Sheet - A114 - Eddy sprite
+
+Work left to complete for sprint 3:
+- stone floor to be edited
+- jungle background to be edited
+- update HackNPlan
