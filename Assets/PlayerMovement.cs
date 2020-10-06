@@ -15,6 +15,11 @@ public class PlayerMovement : MonoBehaviour
 
     bool jump = false;
 
+    void Start()
+    {
+        animator.SetBool("Grounded", true);
+
+    }
 
     // Update is called once per frame
     void Update()
@@ -26,6 +31,14 @@ public class PlayerMovement : MonoBehaviour
         if(Input.GetButtonDown("Jump"))
         {
             jump = true;
+            animator.Play("Eddie_Jump_Normal");
+            
+
+        }
+
+        if (Input.GetButtonDown("Tongue"))
+        {
+            animator.Play("Eddie_Tongue_Normal");
         }
     }
 
